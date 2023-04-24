@@ -76,6 +76,7 @@
     text-transform: uppercase;
 }
 
+
 .input-text {
     margin: 0;
     font-size: 18px;
@@ -169,7 +170,9 @@
 }
 
 @media (max-width: 768px) {
+
     .header {
         text-align: center;
     }
+
 }
